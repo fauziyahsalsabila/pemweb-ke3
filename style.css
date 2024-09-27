@@ -1,0 +1,41 @@
+body{
+    background-color: #e5fbed;
+  }
+
+  .tugas4 {
+    color: #006C84;
+    text-align: center;
+    text-decoration: underline;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  .table1 {
+    border-collapse: collapse;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-color: #ffffff; 
+  }
+  
+  .table2{
+    th, td {
+      text-align: center;
+      padding: 8px;
+    border-color: #d2d2d2; 
+    }
+  }
+
+  .table3{
+    tr:nth-child(even){background-color: #fdffdbdf}
+    border-color: #d2d2d2;
+  }
+
+  .table4{
+    th {
+      background-color: #488f75;
+      color: white;
+      border-color: #d2d2d2;
+    }
+  }

@@ -1,0 +1,28 @@
+body{
+    background-color: #e5fbed 
+}
+
+.tugas3{
+    color: #006C84;
+    text-align: center;
+    font-size: large;
+    text-decoration: underline;
+}
+
+.asisten{
+    width: 1;
+    height: 0%;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+}
+
+.teks{
+    text-align: center;
+    display: flex;
+    font-size: medium;
+    text-align: justify;
+    justify-content: center;
+    
+}
+
